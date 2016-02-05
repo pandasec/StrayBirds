@@ -79,8 +79,8 @@ follow:
     url: /atom.xml
   - class: icon-weibo
     url: http://weibo.com
-  - class: icon-renren
-    url: http://renren.com
+  #- class: icon-renren
+  #  url: http://renren.com
   - class: icon-github-alt
     url: http://github.com
   - class: icon-twitter
@@ -91,8 +91,8 @@ follow:
 #Links
 customLinks:
   - item:
-    - text: 掌心
-      url: http://www.zhanxin.info
+    #- text: 掌心
+    #  url: http://www.zhanxin.info
     - text: Jekyll
       url: http://jekyllrb.com
     - text: Jekyll Theme
